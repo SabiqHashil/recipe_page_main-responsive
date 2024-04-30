@@ -2,7 +2,7 @@
 
 A responsive Recipe Main page, This page was built as a front-end project of [Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS).
 
-- [Page](https://sabiqhashil.github.io/recipe_page_main-responsive/) - Final result of the project
+- [Page](https://recipe-page-main-responsive.vercel.app/) - Final result of the project
 
 ## Built with
 
